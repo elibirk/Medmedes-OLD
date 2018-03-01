@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "181981570327",
+    "firebase_url": "https://medmedes-eca3d.firebaseio.com",
+    "project_id": "medmedes-eca3d",
+    "storage_bucket": "medmedes-eca3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181981570327:android:57ae4f84b8663129",
+        "android_client_info": {
+          "package_name": "com.example.spec.medmedes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181981570327-1bjmbo1dcirl19cikb50jq5oj5ba0mnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQuCqgaRjh5lng2oX1Y_WnzpI0pZUGHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
